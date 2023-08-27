@@ -1,2 +1,2 @@
-/* eslint-disable no-undef */
-module.exports = require('prettier-config/prettierrc');
+// eslint-disable-next-line no-undef
+module.exports = require('prettier-config/.prettierrc');
