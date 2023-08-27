@@ -1,4 +1,4 @@
-export default config = {
+module.exports = {
     extends: ['plugin:adonis/typescriptApp', 'prettier'],
     plugins: ['prettier'],
     rules: {
