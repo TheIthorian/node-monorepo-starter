@@ -1,13 +1,13 @@
 # Turborepo starter
 
-This is an official starter Turborepo.
+This is a starter Turborepo. A modified version of the official starter repo but with personal configurations.
 
 ## Using this example
 
 Run the following command:
 
 ```sh
-npx create-turbo@latest
+npm i
 ```
 
 ## What's inside?
@@ -20,6 +20,7 @@ This Turborepo includes the following packages/apps:
 -   `web`: another [Next.js](https://nextjs.org/) app
 -   `ui`: a stub React component library shared by both `web` and `docs` applications
 -   `eslint-config-custom`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
+-   `prettier-config`: `prettier` configurations
 -   `tsconfig`: `tsconfig.json`s used throughout the monorepo
 
 Each package/app is 100% [TypeScript](https://www.typescriptlang.org/).
