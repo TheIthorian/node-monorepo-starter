@@ -9,6 +9,7 @@
     "devDependencies": {
         "@vercel/style-guide": "^4.0.2",
         "eslint-config-turbo": "^1.10.12",
-        "prettier-config": "*"
+        "prettier-config": "*",
+        "eslint-plugin-prettier": "^5.0.0"
     }
 }

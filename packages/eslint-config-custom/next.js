@@ -38,5 +38,7 @@ module.exports = {
     // add rules configurations here
     rules: {
         'import/no-default-export': 'off',
+        'prettier/prettier': ['error'],
     },
+    plugins: ['prettier'],
 };
