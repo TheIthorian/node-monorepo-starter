@@ -37,6 +37,6 @@ module.exports = {
     ignorePatterns: ['node_modules/', 'dist/'],
     // add rules configurations here
     rules: {
-        allowWholeFile: true,
+        'import/no-default-export': 'off',
     },
 };
